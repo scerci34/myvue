@@ -7,6 +7,7 @@
         <title>Laravel</title>
 
         <!-- Fonts -->
+        <link rel="stylesheet" href="{{asset('css/app.css')}}">
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
 
         <!-- Styles -->
@@ -21,6 +22,13 @@
         </style>
     </head>
     <body class="antialiased">
+    <div id="app">
+    
+    <ders1></ders1>
+    
+    </div>
+   
+            
         <script src="{{'js/app.js'}}"></script>
     </body>
 </html>
