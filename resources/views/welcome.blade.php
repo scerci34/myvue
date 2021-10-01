@@ -25,6 +25,7 @@
     <div id="app">
     
     <ders1></ders1>
+    <ders2></ders2>
     
     </div>
    
