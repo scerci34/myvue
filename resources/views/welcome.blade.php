@@ -24,9 +24,7 @@
     <body class="antialiased">
     <div id="app">
     
-    <ders1></ders1>
-    <ders2></ders2>
-    <ders3></ders3>
+    <ders5></ders5>
     
     </div>
    
