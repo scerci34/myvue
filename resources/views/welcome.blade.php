@@ -23,11 +23,12 @@
     </head>
     <body class="antialiased">
     <div id="app">
+     
     
-    <ders7></ders7>
+    <formvalid></formvalid>
     
     </div>
-   
+  
             
         <script src="{{'js/app.js'}}"></script>
     </body>
