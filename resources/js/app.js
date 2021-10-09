@@ -24,6 +24,8 @@ Vue.component('ders2', require('./components/Ders2If.vue').default);
 Vue.component('ders3', require('./components/Ders3method.vue').default);
 Vue.component('ders4', require('./components/Ders4.vue').default);
 Vue.component('ders5', require('./components/Ders5.vue').default);
+Vue.component('ders6', require('./components/DersClass.vue').default);
+Vue.component('ders7', require('./components/FormValidation.vue').default);
 
 
 /**
