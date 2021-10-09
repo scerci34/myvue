@@ -26,6 +26,10 @@ Vue.component('ders4', require('./components/Ders4.vue').default);
 Vue.component('ders5', require('./components/Ders5.vue').default);
 Vue.component('ders6', require('./components/DersClass.vue').default);
 Vue.component('ders7', require('./components/FormValidation.vue').default);
+Vue.component('watch', require('./components/Watch.vue').default);
+Vue.component('formvalid', require('./components/FormValidationMetWatch.vue').default);
+
+
 
 
 /**
